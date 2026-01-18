@@ -36,6 +36,14 @@ Prior to enterprise systems, I spent several years in systems and game developme
 ![MVVM](https://img.shields.io/badge/MVVM-Pattern-brightgreen?style=flat-square)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Design-informational?style=flat-square)
 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=gray)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 ---
 
 ## 🌟 Featured Repositories
@@ -61,11 +69,9 @@ A collection of opinionated .NET project templates designed to help you bootstra
 
 ## 📫 Find Me
 
-> Let's say '👋 Hello'
-
 [![LinkedIn)](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-irwanto-87bbb512a)
 [![X (formerly Twitter)](https://img.shields.io/badge/X%20(formerly%20twitter)-000000?style=flat-square&logo=x)](https://x.com/muhirwanto_me)
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram)](https://www.instagram.com/muhammadirwanto.me/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-gray?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/32025350/muhirwanto-dev)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/muhammadirwanto.me/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32025350/muhirwanto-dev)
 
 ---
