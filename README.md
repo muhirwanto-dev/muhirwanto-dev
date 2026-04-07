@@ -1,5 +1,5 @@
 <h1 align="center">Greetings👋, I'm Muhammad Irwanto</h1>
-<h4 align="center">Full Stack .NET Developer | REST APIs | SQL Server & PostgreSQL | C++ Programmer Background</h4>
+<h4 align="center">Software Engineer | Enterprise .NET Systems | Scalable Architectures | C++ Systems Programming Background</h4>
 
 ---
 
@@ -7,13 +7,13 @@
 
 ## 👨‍💻 About Me
 
-I am a Full-Stack .NET Developer with **8+ years** of professional software engineering experience, including 3+ years focused on **enterprise backend and full-stack systems** using C# .NET, and 5 years of systems-level programming in C++.
+I’m a **Software Engineer** specializing in **enterprise-grade .NET systems**, with **8+ years of experience** building scalable, business-critical applications.
 
-I specialize in building business-critical, production-grade applications—from backend APIs and data synchronization services to internal dashboards and mobile-backed systems. My work spans security access control, SAP-integrated workflows, financial systems, and real-time operational platforms.
+I design and develop production-grade solutions ranging from backend APIs and data synchronization services to internal dashboards and mobile-backed systems. My work spans security access control, SAP-integrated workflows, financial dashboards, and real-time operational platforms.
 
-I have hands-on experience designing and maintaining scalable backend architectures using .NET 6+, Entity Framework Core, SQL Server, PostgreSQL, REST APIs, and message-driven integrations, with strong attention to performance, reliability, and maintainability.
+I have hands-on experience architecting and maintaining scalable backend systems using .NET 6+, .NET Framework, Entity Framework Core, SQL Server, PostgreSQL, REST APIs, and message-driven integrations, with a strong focus on **performance, reliability, and maintainability**.
 
-Prior to enterprise systems, I spent several years in systems and game development, working extensively with C++ physics engines and real-time systems, which shaped my engineering mindset around optimization, stability, and low-level understanding.
+My foundation includes **5 years of systems programming in C++**, working with real-time systems and physics engines. This background gives me a deeper understanding of **low-level performance, memory management, and system behavior**, which I bring into modern high-level application development.
 
 ---
 
@@ -21,7 +21,7 @@ Prior to enterprise systems, I spent several years in systems and game developme
 
 ![.NET](https://img.shields.io/badge/.NET-6%2B-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-Mobile%20UI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8%2B-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.0%2B-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![.NET Core MVC](https://img.shields.io/badge/.NET%20Core-MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-Mobile%20App-3498DB?style=flat-square&logo=xamarin&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-2016%2B-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
