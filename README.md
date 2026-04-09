@@ -1,5 +1,5 @@
 <h1 align="center">Greetings👋, I'm Muhammad Irwanto</h1>
-<h4 align="center">Software Engineer | Enterprise .NET Systems | Scalable Architectures | C++ Systems Programming Background</h4>
+<h4 align="center">Software Engineer | Enterprise .NET & Scalable Architectures | C++ Systems Background</h4>
 
 ---
 
