@@ -1,5 +1,5 @@
 <h1 align="center">Greetings👋, I'm Muhammad Irwanto</h1>
-<h4 align="center">Software Engineer | Enterprise .NET & Scalable Architectures | C++ Systems Background</h4>
+<h4 align="center">Software Engineer | Enterprise .NET Systems & Scalable Architecture | C++ Systems Background</h4>
 
 ---
 
@@ -7,27 +7,30 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Software Engineer** specializing in **enterprise-grade .NET systems**, with **8+ years of experience** building scalable, business-critical applications.
+I am a **Software Engineer** specializing in **enterprise-grade .NET systems**, with over **8 years of experience** building high-performance, business-critical applications.
 
-I design and develop production-grade solutions ranging from backend APIs and data synchronization services to internal dashboards and mobile-backed systems. My work spans security access control, SAP-integrated workflows, financial dashboards, and real-time operational platforms.
+I began my career with 5 years of **systems programming in C++**, where I architected real-time systems and physics engines. This foundational experience gives me a deeper understanding to **low-level performance, memory management, and system stability** — principles I now bring to modern, high-level application development.
 
-I have hands-on experience architecting and maintaining scalable backend systems using .NET 6+, .NET Framework, Entity Framework Core, SQL Server, PostgreSQL, REST APIs, and message-driven integrations, with a strong focus on **performance, reliability, and maintainability**.
+Over the past three years, I have leveraged this background to deliver production-grade .NET solutions across the **manufacturing, mining, and automotive** sectors. My experience spans the full development lifecycle — encompassing **mobile, web, and backend API architecture**, alongside complex data synchronization and third-party integrations (e.g., SAP, Hikvision).
 
-My foundation includes **5 years of systems programming in C++**, working with real-time systems and physics engines. This background gives me a deeper understanding of **low-level performance, memory management, and system behavior**, which I bring into modern high-level application development.
+I possess hands-on experience architecting and maintaining scalable backend systems using .NET 6+, .NET Framework, Entity Framework Core, SQL Server, PostgreSQL, REST APIs, Docker, and message-driven integrations.
+
+I am consistently driven by a focus on performance, reliability, and maintainability, ensuring that every solution I build is not only functional but architecturally sound and built to scale.
 
 ---
 
 ## 🧰 Tech Stack
 
 ![.NET](https://img.shields.io/badge/.NET-6%2B-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-Mobile%20UI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-6+-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.0%2B-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![.NET Core MVC](https://img.shields.io/badge/.NET%20Core-MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-Mobile%20App-3498DB?style=flat-square&logo=xamarin&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-Mobile-3498DB?style=flat-square&logo=xamarin&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-2016%2B-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-Embedded-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-009688?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-Streaming-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF%20Core-ORM-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![MediatR](https://img.shields.io/badge/MediatR-Mediator%20Pattern-orange?style=flat-square)
